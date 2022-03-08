@@ -53,7 +53,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/MRCLEAN77/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
